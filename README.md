@@ -1,2 +1,2 @@
 # LF_OII
-Code for Master's Degree in Astrophysics
+Code for a Thesis at the Master's Degree in Astrophysics at Padova University
